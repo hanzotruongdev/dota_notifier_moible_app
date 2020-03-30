@@ -29,10 +29,11 @@ You will never miss any live matches of your favorite Pro Players with this app.
 
 ## Screenshots
 
-|<img src="docs/screenshots/login.jpg" width="250">|<img src="docs/screenshots/home.jpg" width="250">|
-|---|---|
-|<img src="docs/screenshots/profile.jpg" width="250">|<img src="docs/screenshots/notification.jpg" width="250">|
-|---|---|
+|<img src="docs/screenshots/login.jpg" width="250">| |<img src="docs/screenshots/home.jpg" width="250">|
+|---|---|---|
+
+|<img src="docs/screenshots/profile.jpg" width="250">| |<img src="docs/screenshots/notification.jpg" width="250">|
+|---|---|---|
 
 ## Usage and Installation
 
