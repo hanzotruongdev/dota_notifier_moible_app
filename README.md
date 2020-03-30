@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://github.com/noitq/dota_notifier_mobile/blob/master/docs/images/app_icon.png" width="200">
+</p>
+<h1 align="center"> DotA Notifier </h1>
+
 ---
-- [What is DotA Notifier] (#what-is-dota-notifier)
+
+- [What is DotA Notifier] (#what-is-dota-notifier?)
 - [Features] (#features)
-- [Usage and Installation] (#ussage-and-installation)
+- [Screenshots] (#screenshots)
+- [Usage and Installation] (#usage-and-installation)
+
 ---
 
 
@@ -13,9 +21,15 @@ You will never miss any live matches of your favorite Pro Players with this app.
 
 ## Features
 
-1. Search Pro Player by name
-2. Follow Pro Players you like, the app will notify you when you followed Pro Players go Live on DotaTV
-3. Save the list of your followed Pro Players on your account, you can get notified on others devices after login without re-follow them again.
+- [x] Search Pro Player by name
+- [x] Follow Pro Players you like, the app will notify you when your followed Pro Players go Live on DotaTV
+- [x] Save the list of your followed Pro Players on your account, you can get notified on others devices after login without re-follow them again.
+- [] Show top followed Pro Players
+- [] Show current live match on DotaTV
+
+## Screenshots
+|<img src="docs/screenshots/login.jpg" width="250">|<img src="docs/screenshots/home.jpg" width="250">|
+|<img src="docs/screenshots/profile.jpg" width="250">|<img src="docs/screenshots/notification.jpg" width="250">|
 
 ## Usage and Installation
 
